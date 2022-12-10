@@ -1,0 +1,14 @@
+C:\Users\nick6\source\repos\possiveisPraticas\possiveisPraticas\bin\Debug\netcoreapp3.1\possiveisPraticas.exe
+C:\Users\nick6\source\repos\possiveisPraticas\possiveisPraticas\bin\Debug\netcoreapp3.1\possiveisPraticas.deps.json
+C:\Users\nick6\source\repos\possiveisPraticas\possiveisPraticas\bin\Debug\netcoreapp3.1\possiveisPraticas.runtimeconfig.json
+C:\Users\nick6\source\repos\possiveisPraticas\possiveisPraticas\bin\Debug\netcoreapp3.1\possiveisPraticas.runtimeconfig.dev.json
+C:\Users\nick6\source\repos\possiveisPraticas\possiveisPraticas\bin\Debug\netcoreapp3.1\possiveisPraticas.dll
+C:\Users\nick6\source\repos\possiveisPraticas\possiveisPraticas\bin\Debug\netcoreapp3.1\possiveisPraticas.pdb
+C:\Users\nick6\source\repos\possiveisPraticas\possiveisPraticas\obj\Debug\netcoreapp3.1\possiveisPraticas.csproj.AssemblyReference.cache
+C:\Users\nick6\source\repos\possiveisPraticas\possiveisPraticas\obj\Debug\netcoreapp3.1\possiveisPraticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nick6\source\repos\possiveisPraticas\possiveisPraticas\obj\Debug\netcoreapp3.1\possiveisPraticas.AssemblyInfoInputs.cache
+C:\Users\nick6\source\repos\possiveisPraticas\possiveisPraticas\obj\Debug\netcoreapp3.1\possiveisPraticas.AssemblyInfo.cs
+C:\Users\nick6\source\repos\possiveisPraticas\possiveisPraticas\obj\Debug\netcoreapp3.1\possiveisPraticas.csproj.CoreCompileInputs.cache
+C:\Users\nick6\source\repos\possiveisPraticas\possiveisPraticas\obj\Debug\netcoreapp3.1\possiveisPraticas.dll
+C:\Users\nick6\source\repos\possiveisPraticas\possiveisPraticas\obj\Debug\netcoreapp3.1\possiveisPraticas.pdb
+C:\Users\nick6\source\repos\possiveisPraticas\possiveisPraticas\obj\Debug\netcoreapp3.1\possiveisPraticas.genruntimeconfig.cache
