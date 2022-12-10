@@ -114,8 +114,12 @@ namespace possiveisPraticas
                     break;
             }
             #endregion
-             Console.WriteLine("");
-             Console.WriteLine("My name is gustavo");
+            Console.WriteLine("Bom, esse algoritmo foi desenvolvido pelo senhorN no intuito dele se descontrair :)");
+            Console.WriteLine("");
+            Console.WriteLine("Obrigador por jogar!");
+            Console.ReadKey();//Fim do algoritmo.
+            
+            //development senhorN. 
         }
         
     }
