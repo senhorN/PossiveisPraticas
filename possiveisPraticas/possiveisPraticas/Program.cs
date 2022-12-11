@@ -149,6 +149,21 @@ namespace possiveisPraticas
             {
                 Console.WriteLine("vou pedalar outro dia");
             }
+            
+            //Um vetor de 3 posições
+            int[] Matriz = new int[3];
+
+
+            /*-------------------------------------------------------------------- */ 
+            //Estudo sobre arrays 
+            Matriz[0] = 5;
+            Matriz[1] = 2;
+            Matriz[2] = 7;
+
+            //Array resize eu aumento o tamanho do array dobrando ela  de 4 para 8
+            Array.Resize(ref Matriz, Matriz.Length * 2);
+            
+            
             //development senhorN. 
         }
         
