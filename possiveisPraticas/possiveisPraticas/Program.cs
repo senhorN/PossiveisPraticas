@@ -119,6 +119,36 @@ namespace possiveisPraticas
             Console.WriteLine("Obrigador por jogar!");
             Console.ReadKey();//Fim do algoritmo.
             
+            
+            /*---------------------------------------------------------------------------------------------------- */ 
+            
+            
+            //operador 'e' representado por &&
+            bool presencaMinina;
+            double media = 7.5;
+            
+            if(presencaMinima && media >= 7)
+            {
+                Console.WriteLine("Aprovado!");
+            }    
+            else 
+            {
+                Console.WriteLine("Reprovado!");
+            }
+            
+            
+            //Operador NOT (negação) representado por !
+            bool choveu = true;
+            bool estaTarde = false;
+            
+            if(!choveu && !estaTarde)
+            {
+                Console.WriteLine("vou pedalar");
+            }
+            else 
+            {
+                Console.WriteLine("vou pedalar outro dia");
+            }
             //development senhorN. 
         }
         
