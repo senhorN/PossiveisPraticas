@@ -163,6 +163,30 @@ namespace possiveisPraticas
             //Array resize eu aumento o tamanho do array dobrando ela  de 4 para 8
             Array.Resize(ref Matriz, Matriz.Length * 2);
             
+            /*--------------------------------------------------------------------- */ 
+            //Estudo de listas 
+            
+            //List é uma classe
+            List<string> teste = new List<string>();
+
+            teste.Add("São Paulo");
+            teste.Add("Rio de Janeiro");
+            teste.Add("Minas Gerais");
+
+            Console.WriteLine("Percorrendo a lista com FOR");
+
+            for (int i = 0; i < teste.Count; i++)
+            {
+                Console.WriteLine($"Posição Nº {i} - {teste[i]} "); 
+            }
+
+            Console.WriteLine("Percorrendo a lista com FOREACH");
+            int contadorForeach = 0;
+            foreach(String valor in teste)
+            {
+                Console.WriteLine($"Posição Nº {contadorForeach} - {valor}");
+                contadorForeach++;
+            }
             
             //development senhorN. 
         }
