@@ -58,6 +58,12 @@ namespace possiveisPraticas
 
             Console.WriteLine($"tangente de {angulo}º = {Math.Round (tangente, 4)}");
         }
+        public void RaizQuadrada(double x)
+        {
+            //sqaure root = raiz quadrada >> sqrt
+            double raiz = Math.Sqrt(x);
+            Console.WriteLine($"A raiz quadrada  de {x} = {raiz}"); 
+        }
         #endregion 
     }
 }
