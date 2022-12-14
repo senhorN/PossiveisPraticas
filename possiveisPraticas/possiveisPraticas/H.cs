@@ -11,7 +11,7 @@ namespace possiveisPraticas
         /// </summary>
         public string Nome { get; set; } //Nome da pessoa 
         public string Sobrenome { get; set; }
-                                                            //ToUpper > deixa os carcateres em maiusculo
+                                                            //ToUpper > deixa os carcteres em maiusculo
         public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper(); //propriedade de get; pega as duas variaveis Nome & Sobrenome.
         public int Idade { get; set; }//idade da pessoa 
         public string Cidade { get; set; }//cidade aonde a pessoa mora
