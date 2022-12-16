@@ -8,6 +8,7 @@ namespace possiveisPraticas
     {
         public Venda(int id, string produto, decimal preco)
         {
+            //Compreendendo como funciona o arquivo json 
             id = id;
             produto = produto;
             preco = preco;
