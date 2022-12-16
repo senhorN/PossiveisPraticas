@@ -9,6 +9,7 @@ namespace possiveisPraticas
     {
         static void Main(string[] args)
         {
+            //update [+]
             Venda v1 = new Venda(2, "Banana", 20.50M);
 
             string serializado = JsonConvert.SerializeObject(v1, Formatting.Indented);
