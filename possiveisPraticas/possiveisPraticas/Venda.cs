@@ -4,17 +4,20 @@ using System.Text;
 
 namespace possiveisPraticas
 {
-    class Venda
+   class Venda
     {
-        public Venda(int id, string produto, decimal preco)
+        //Construtor Venda
+        public Venda(int id, string produto, decimal preco, DateTime dataVenda)
         {
-            //Compreendendo como funciona o arquivo json 
-            id = id;
-            produto = produto;
-            preco = preco;
+            id = Id;
+            produto = Produto;
+            preco = Preco;
+            DataVenda = dataVenda;
         }
-        public int id { get; set; }
-        public string produto { get; set; }
-        public decimal preco { get; set; }
+        //Propriedades
+        public int Id { get; set; }
+        public string Produto { get; set; }
+        public decimal Preco { get; set; }
+        public DateTime DataVenda { get; set; }
     }
 }
